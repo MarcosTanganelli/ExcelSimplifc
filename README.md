@@ -8,8 +8,7 @@ Data de Início: 24/09/2023
 
 Descrição:
 
-O programa possui dois botões de buscas por arquivos excel e um botão de criação que irá pedir um local e nome para salvar o arquivo final,
-que possui uma formatação simples de entender, com os dados relevantes.
+O programa possui dois botões de buscas por arquivos excel e um botão de criação que irá pedir um local e nome para salvar o arquivo final
 
 Aplicação:
 
