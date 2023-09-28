@@ -16,6 +16,7 @@ Aplicação:
 Organização do excel de composições:
 ![image](https://github.com/MarcosTanganelli/ExcelSimplifc/assets/88058554/154986fb-4a43-4b3a-b234-506edca9710d)
 Como fica o Excel no final:
+
 ![image](https://github.com/MarcosTanganelli/ExcelSimplifc/assets/88058554/ae7d2c3a-c560-4f50-8307-932a2abb3295)
 
 Foi determinado não usar VBA nativa do proprio excel, pois o aplicativo não estava aguentando uma interação sobre as linhas. 
